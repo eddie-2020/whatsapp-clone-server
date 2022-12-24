@@ -1,0 +1,10 @@
+POST http://localhost:5000/messages/new
+Content-Type: application/json
+
+{
+    "message": "Yes boss 😂",
+    "name": "Edward Oluyara",
+    "timestamp": "2022-12-24 7:35",
+    "received": true
+}
+
